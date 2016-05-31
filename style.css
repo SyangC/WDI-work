@@ -1,12 +1,11 @@
 .board {
-	display:inline-block;
-	float:left;
 	height: 50%;
 	width: 50%;
 	margin: 8%;
 }
 
 .card{
+	display: inline-block;
 	height: 200px;
 	width: 150px;
 	border: 1px;
